@@ -5,9 +5,9 @@ to print a figure of a robot named Ronni Bot.
 Image has been saved under this repository as a preview
 
 
-/* Assigment 3
-Student ID: 00318934
-Name: Patricia Antlitz
+# Assigment 3
+
+## Name: Patricia Antlitz
 Professor Ethel Schuster
 Introduction to Computer Science CIS-140
 3 October 2020
@@ -47,5 +47,3 @@ Code is separated into sections:
 
  size, background, stroke, strokeWeight, fill, ellipse, rect, line, triangle, noFill, texSize,
  text.
-
-*/
