@@ -5,7 +5,7 @@ to print a figure of a robot named Ronni Bot.
 Image has been saved under this repository as a preview
 
 
-# Assigment 3
+# Assignment 3
 
 ## Name: Patricia Antlitz
 Professor Ethel Schuster

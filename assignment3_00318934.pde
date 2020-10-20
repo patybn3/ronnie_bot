@@ -1,4 +1,4 @@
-/* Assigment 3
+/* Assignment 3
 Student ID: 00318934
 Name: Patricia Antlitz
 Professor Ethel Schuster
@@ -35,9 +35,9 @@ Code is separated into sections:
     - Hands
     - Legs
     - Feet
-    
+
  This tutorial uses the following functions:
- 
+
  size, background, stroke, strokeWeight, fill, ellipse, rect, line, triangle, noFill, texSize,
  text.
 
@@ -69,26 +69,26 @@ ellipse(150, 200, 50, 80);
 // Right Ear. Create another ellipse, place it at x= 350, y= 200, and make it 50px wide and 80px tall.
 ellipse(350, 200, 50, 80);
 
-// Create an antenna using the triangle function 
-/* Antenna. place the first point at x1= 130 y1= 129, the second point at 
+// Create an antenna using the triangle function
+/* Antenna. place the first point at x1= 130 y1= 129, the second point at
 x2= 250, y2= 50, and the third point at x3= 270, y3= 129. */
 triangle(230, 129, 250, 50, 270, 129);
-/* Create a circle using the ellipse function on the top 0f the antenna, 
-give it the color blue, place it at x= 250, y= 60 and make it 20px wide and 
+/* Create a circle using the ellipse function on the top 0f the antenna,
+give it the color blue, place it at x= 250, y= 60 and make it 20px wide and
 20px tall. */
 fill(0, 150, 205);
 ellipse(250, 60, 30, 30);
 
 // Select a dark gray color.
 fill(180);
-/* Face. create a rectangle, place it at x= 150, y= 130 and make it 200px wide and 
+/* Face. create a rectangle, place it at x= 150, y= 130 and make it 200px wide and
 150px tall. */
 rect(150, 130, 200, 150);
 
 // Face Faatures
 // Change the color to white.
 fill(255);
-/* Left eye. Create an circle using ellipse function, place it at x= 200, y= 190 and make it 60px 
+/* Left eye. Create an circle using ellipse function, place it at x= 200, y= 190 and make it 60px
 wide and 60px tall. */
 ellipse(200, 190, 60, 60);
 // Create and smaller circle and place it at x= 200, y= 190, make it 45px wide, 45px tall.
