@@ -47,3 +47,6 @@ Code is separated into sections:
 
  size, background, stroke, strokeWeight, fill, ellipse, rect, line, triangle, noFill, texSize,
  text.
+
+ <img width="254" alt="assignment3_00318934" src="https://user-images.githubusercontent.com/59259041/100961986-6dde9b00-34f1-11eb-8352-d69953d3df36.png">
+ 
